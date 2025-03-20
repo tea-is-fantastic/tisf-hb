@@ -1,0 +1,19 @@
+{
+  "name": "@tisf/hb",
+  "version": "0.0.6",
+  "description": "Download snippets from Github",
+  "bin": {
+    "@tisf/hb": "bin/install.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^7.3.2",
+    "axios": "^1.7.9",
+    "fs-extra": "^11.3.0",
+    "handlebars": "^4.7.8",
+    "lodash": "^4.17.21",
+    "yargs": "^17.7.2"
+  }
+}
